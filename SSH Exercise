@@ -1,0 +1,20 @@
+megatron@DESKTOP-A83FSGN:~$ cat SCM.sh
+#!/bin/bash
+*****************************************************************************
+echo "UPDATE THE CONTENT OF SCM.py"
+*****************************************************************************
+uptime
+lslogins
+date
+
+sudo vi /etc/ssh/sshd_config
+
+df
+free
+nproc
+grep
+
+date
+
+megatron@DESKTOP-A83FSGN:~$ sh CRYPTO.sh
+
